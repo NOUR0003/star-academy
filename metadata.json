@@ -1,0 +1,8 @@
+{
+  "name": "EduStream Pro",
+  "description": "A comprehensive secondary school educational platform featuring student wallets, video lessons with view limits, and a powerful admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
